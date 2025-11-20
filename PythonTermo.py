@@ -113,4 +113,5 @@ while True:
         restart("derrota")
 
     if r == palavraEscolhidaDecodada:
+
         restart("vitória")
